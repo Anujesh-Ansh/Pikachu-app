@@ -58,6 +58,8 @@ export default function App() {
     "Palkia",
     "Giratina",
     "Arceus",
+    "Rayquaza",
+    "Jirachi",
   ];
   
   const [item, setItem] = useState([
